@@ -8,10 +8,10 @@ The system utilizes a range of sophisticated Convolutional Neural Networks (CNNs
 
 ## Methodology
 
-### Specifications of Software Block Diagram using ML
+### Specifications of Software Block Diagram using ML:
 ![Model Workflow](Docs/model_workflow_diagram.jpg)
 
 
-### Simulation of different categories of waste materials.
+### Simulation of different categories of waste materials:
 ![Detailed Interface](Docs/Testing%20Diagram.jpg)
 
